@@ -23,8 +23,8 @@ img {
 	max-width: 100%;
 }
 
-p{
-  text-align: justify;
+p {
+	text-align: justify;
 }
 
 .title {
@@ -63,7 +63,7 @@ p{
 
 .img-container {
 	overflow: hidden;
-  height: 350px;
+	height: 350px;
 }
 
 .img-container img {
