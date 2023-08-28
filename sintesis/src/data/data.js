@@ -54,6 +54,17 @@ const data = [
 		date: 'Published on May 16, 2021',
 		ReadingTime: '10 min read',
 	},
+	{
+		id: 6,
+		image:
+			'https://www.mediasource.mx/hubfs/blog-files/conclusion.png',
+		title: 'Conclusion',
+		category: 'Conclusion',
+		description:
+			'Es importante conocer las tecnologías de control de versiones porque permiten gestionar y rastrear cambios en archivos y proyectos de manera eficiente. Esto facilita la colaboración, la recuperación de versiones anteriores y la integridad de los datos en el desarrollo de software y otros proyectos, lo que ahorra tiempo y evita errores costosos. Además, el conocimiento de estas tecnologías es fundamental en el entorno de desarrollo moderno, donde Git, en particular, desempeña un papel central',
+		date: 'Published on May 16, 2021',
+		ReadingTime: '10 min read',
+	},
 ];
 
 export default data;
